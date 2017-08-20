@@ -1,4 +1,7 @@
 # **bamazon App**
+Welcome to my Node and MySQL powered digital storefront! It is a riff off a well-known web mega-merchant, but your shopping on Bamazon will be done on the command line! 
+
+Learn how to use it below.
 
 ## Bamazon instruction video link
 https://youtu.be/CenbVeJxKMI
